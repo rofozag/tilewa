@@ -12,5 +12,5 @@ yesBtn.addEventListener("click", () => {
 
 noBtn.addEventListener("click", () => {
   // Show a minimal popup message
-  alert("Insufficient data to verify");
+  alert("Ogbeni say yes joor...");
 });
